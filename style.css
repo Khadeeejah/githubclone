@@ -265,18 +265,7 @@ h1 {
   flex: 1;
 }
 
-.footer {
-  padding: 80px 0;
-  margin-left: 10px;
-  margin-right: 10px;
-  display: flex;
-  justify-content: space-between;
-  color: #586069;
-}
 
-.footer a {
-  color: #0366d6;
-}
 
 
 
